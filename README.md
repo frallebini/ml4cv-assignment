@@ -15,7 +15,11 @@ The dataset you are going to work with is called StreetHazards [[1](https://arxi
 * [Test set download link](https://people.eecs.berkeley.edu/~hendrycks/streethazards_test.tar)
 
 Here is an example of a test pair, where a single anomalous object appears (a cat):
-![](assets/both.png)
+
+<p align="center">
+  <img src="assets/both.png" />
+</p>
+
 Segmentation maps like the one above can be produced with [this script](utils/visualize.py).
 
 ## Goal
@@ -73,4 +77,6 @@ What follows is a (non-exhaustive) list of papers you might want to take a look 
 ## FAQ
 This section will be dynamically updated in the following weeks/months as I receive questions about the assignment.
 
-![](assets/empty.jpeg)
+<p align="center">
+  <img src="assets/empty.jpeg" />
+</p>
