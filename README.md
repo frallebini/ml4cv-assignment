@@ -72,4 +72,5 @@ What follows is a (non-exhaustive) list of papers you might want to take a look 
 
 ## FAQ
 This section will be dynamically updated in the following weeks/months as I receive questions about the assignment.
+
 ![](assets/empty.jpeg)
