@@ -45,7 +45,7 @@ You must submit the following files:
 * Any other file needed to run the notebook.
 
 ### How to submit
-You must submit your files through the dedicated "assignment submission form" in the [course page](https://virtuale.unibo.it/course/view.php?id=62293#) on Virtuale. You can submit at most 20 files with maximum size 20 MB each (both limits imposed by Virtuale itself). In case some of your files exceed 20 MB (e.g. the model weights), upload them on your institutional OneDrive and add a public link to them in your `README.md`.
+You must submit your files through the dedicated [assignment submission form](https://virtuale.unibo.it/mod/assign/view.php?id=1821159) in the course page on Virtuale. You can submit at most 20 files with maximum size 20 MB each (both limits imposed by Virtuale itself). In case some of your files exceed 20 MB (e.g. the model weights), upload them on your institutional OneDrive and add a public link to them in your `README.md`.
 
 ### When to submit
 Make sure to submit the assignment **before** you write to prof. Salti to schedule the oral exam. Put me in cc when you do so, so that I will see when your exam gets scheduled and I can make sure your assignment has been graded by the time you attend the exam.
